@@ -15,6 +15,6 @@ O site foi gerado mas precisava de javascript para realizar suas funcionalidades
 
 # ✨ Desafios:
 Criar um array para armazenar nomes;
-Implementar uma função de agregar amigos;
-Implementar uma função para atualizar a lista de amigos;
-Implementar uma função para sortear amigos.
+- Implementar uma função de agregar amigos;
+- Implementar uma função para atualizar a lista de amigos;
+- Implementar uma função para sortear amigos.
