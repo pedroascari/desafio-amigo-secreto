@@ -8,9 +8,13 @@ Desafio de criar um javascript com input, armazenamento e sorteio de amigos secr
 
 - `Funcionalidade 1`: Coleta o nome dos amigos que irão participar do sorteio;
 - `Funcionalidade 2`: Testa para verificar se tem nomes o suficiente para realizar o sorteio;
-- `Funcionalidade 2a`: Entrega ao usuário o resultado.
+- `Funcionalidade 3`: Entrega ao usuário o resultado.
 
 # ❓ Principal problema:
 O site foi gerado mas precisava de javascript para realizar suas funcionalidades.
 
 # ✨ Desafios:
+Criar um array para armazenar nomes;
+Implementar uma função de agregar amigos;
+Implementar uma função para atualizar a lista de amigos;
+Implementar uma função para sortear amigos.
